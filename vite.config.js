@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base:"/React_Vite_CICD_GitHub/",
+  base:"/React_CICD_GitHub/",
   server:{
     open:true,
     port:3001
